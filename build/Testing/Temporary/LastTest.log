@@ -1,0 +1,133 @@
+Start testing: Apr 28 16:30 EEST
+----------------------------------------------------------
+1/5 Testing: FactorizeTest.Assignmenttest
+1/5 Test: FactorizeTest.Assignmenttest
+Command: "/home/hassaan/gtest-demo/build/factorize_test" "--gtest_filter=FactorizeTest.Assignmenttest" "--gtest_also_run_disabled_tests"
+Directory: /home/hassaan/gtest-demo/build
+"FactorizeTest.Assignmenttest" start time: Apr 28 16:30 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FactorizeTest.Assignmenttest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactorizeTest
+[ RUN      ] FactorizeTest.Assignmenttest
+[       OK ] FactorizeTest.Assignmenttest (0 ms)
+[----------] 1 test from FactorizeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FactorizeTest.Assignmenttest" end time: Apr 28 16:30 EEST
+"FactorizeTest.Assignmenttest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: FactorizeTest.prime
+2/5 Test: FactorizeTest.prime
+Command: "/home/hassaan/gtest-demo/build/factorize_test" "--gtest_filter=FactorizeTest.prime" "--gtest_also_run_disabled_tests"
+Directory: /home/hassaan/gtest-demo/build
+"FactorizeTest.prime" start time: Apr 28 16:30 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FactorizeTest.prime
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactorizeTest
+[ RUN      ] FactorizeTest.prime
+[       OK ] FactorizeTest.prime (0 ms)
+[----------] 1 test from FactorizeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FactorizeTest.prime" end time: Apr 28 16:30 EEST
+"FactorizeTest.prime" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: FactorizeTest.one
+3/5 Test: FactorizeTest.one
+Command: "/home/hassaan/gtest-demo/build/factorize_test" "--gtest_filter=FactorizeTest.one" "--gtest_also_run_disabled_tests"
+Directory: /home/hassaan/gtest-demo/build
+"FactorizeTest.one" start time: Apr 28 16:30 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FactorizeTest.one
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactorizeTest
+[ RUN      ] FactorizeTest.one
+[       OK ] FactorizeTest.one (0 ms)
+[----------] 1 test from FactorizeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FactorizeTest.one" end time: Apr 28 16:30 EEST
+"FactorizeTest.one" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: FactorizeTest.singlefactor
+4/5 Test: FactorizeTest.singlefactor
+Command: "/home/hassaan/gtest-demo/build/factorize_test" "--gtest_filter=FactorizeTest.singlefactor" "--gtest_also_run_disabled_tests"
+Directory: /home/hassaan/gtest-demo/build
+"FactorizeTest.singlefactor" start time: Apr 28 16:30 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FactorizeTest.singlefactor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactorizeTest
+[ RUN      ] FactorizeTest.singlefactor
+[       OK ] FactorizeTest.singlefactor (0 ms)
+[----------] 1 test from FactorizeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FactorizeTest.singlefactor" end time: Apr 28 16:30 EEST
+"FactorizeTest.singlefactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: FactorizeTest.Test
+5/5 Test: FactorizeTest.Test
+Command: "/home/hassaan/gtest-demo/build/factorize_test" "--gtest_filter=FactorizeTest.Test" "--gtest_also_run_disabled_tests"
+Directory: /home/hassaan/gtest-demo/build
+"FactorizeTest.Test" start time: Apr 28 16:30 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FactorizeTest.Test
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactorizeTest
+[ RUN      ] FactorizeTest.Test
+[       OK ] FactorizeTest.Test (0 ms)
+[----------] 1 test from FactorizeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FactorizeTest.Test" end time: Apr 28 16:30 EEST
+"FactorizeTest.Test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 28 16:30 EEST

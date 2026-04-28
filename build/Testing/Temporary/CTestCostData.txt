@@ -1,0 +1,6 @@
+FactorizeTest.Assignmenttest 2 0.00199745
+FactorizeTest.prime 2 0.00105157
+FactorizeTest.one 3 0.000669255
+FactorizeTest.singlefactor 2 0.000928342
+FactorizeTest.Test 2 0.000977386
+---

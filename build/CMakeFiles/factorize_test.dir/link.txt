@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/factorize_test.dir/link.d CMakeFiles/factorize_test.dir/test_prime.cpp.o -o factorize_test  /usr/lib/aarch64-linux-gnu/libgtest.a /usr/lib/aarch64-linux-gnu/libgtest_main.a /usr/lib/aarch64-linux-gnu/libgtest.a

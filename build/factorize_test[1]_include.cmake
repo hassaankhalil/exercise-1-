@@ -1,0 +1,5 @@
+if(EXISTS "/home/hassaan/gtest-demo/build/factorize_test[1]_tests.cmake")
+  include("/home/hassaan/gtest-demo/build/factorize_test[1]_tests.cmake")
+else()
+  add_test(factorize_test_NOT_BUILT factorize_test_NOT_BUILT)
+endif()

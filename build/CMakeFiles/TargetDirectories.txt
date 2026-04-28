@@ -1,0 +1,4 @@
+/home/hassaan/gtest-demo/build/CMakeFiles/factorize_test.dir
+/home/hassaan/gtest-demo/build/CMakeFiles/test.dir
+/home/hassaan/gtest-demo/build/CMakeFiles/edit_cache.dir
+/home/hassaan/gtest-demo/build/CMakeFiles/rebuild_cache.dir
